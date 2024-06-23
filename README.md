@@ -12,14 +12,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Penguscript&theme=dark&hide_border=true&card_width=500" alt="Penguscript's Streak">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Penguscript&theme=dark&show_icons=true&hide_border=true&layout=compact&card_width=500" alt="Penguscript's Top Languages">
-</p>
-
-<p align="center">
+  <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Penguscript&theme=dark&card_width=500" alt="Penguscript's Profile Details">
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Penguscript&theme=dark&card_width=500" alt="Penguscript's Most Commit Language">
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Penguscript&theme=dark&card_width=500" alt="Penguscript's Repos Per Language">
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Penguscript&theme=darkhub&no-frame=true&column=6&margin-w=15&margin-h=15" alt="Penguscript's Trophies">
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Penguscript&theme=react-dark&hide_border=true&card_width=500" alt="Penguscript's Activity Graph">
 </p>
 
 ---
