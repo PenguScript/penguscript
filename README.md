@@ -17,7 +17,7 @@
   <br>
   <img src="https://github-profile-trophy.vercel.app/?username=Penguscript&theme=darkhub&no-frame=true&column=6&margin-w=15&margin-h=15" alt="Penguscript's Trophies">
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Penguscript&theme=react-dark&hide_border=true&card_width=500" alt="Penguscript's Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Penguscript&theme=github-dark&hide_border=true&card_width=500" alt="Penguscript's Activity Graph">
 </p>
 
 ---
