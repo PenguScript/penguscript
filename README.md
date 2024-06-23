@@ -17,9 +17,9 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Penguscript&theme=dark&card_width=500" alt="Penguscript's Profile Details">
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Penguscript&theme=dark&card_width=500" alt="Penguscript's Most Commit Language">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Penguscript&theme=dark&card_width=750" alt="Penguscript's Most Commit Language">
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Penguscript&theme=dark&card_width=500" alt="Penguscript's Repos Per Language">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Penguscript&theme=dark&card_width=750" alt="Penguscript's Repos Per Language">
 </p>
 
 ---
