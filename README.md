@@ -30,4 +30,7 @@
   <a href="https://discord.gg/AS7U5GK4TE" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
+  <a href="https://ko-fi.com/penguscripts" target="_blank">
+    <img src="https://img.shields.io/badge/Ko-Fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-Fi">
+  </a>
 </p>
