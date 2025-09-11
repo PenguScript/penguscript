@@ -34,3 +34,4 @@
     <img src="https://img.shields.io/badge/Ko-Fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-Fi">
   </a>
 </p>
+![Github Stars](https://humble-palm-tree-r557rjrxqr525qwx-5000.app.github.dev/?user=PenguScript)
