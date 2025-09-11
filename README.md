@@ -35,5 +35,5 @@
   </a>
 </p>
 <div align="center">
-  <img src="https://github-aura-count-ba--penguscript.github.app/?user=PenguScript" alt="GitHub Aura Counter" />
+  <img src="https://github-aura-count-ba--penguscript.github.app/api/aura-badge?user=PenguScript" alt="GitHub Aura Counter" />
 </div>
