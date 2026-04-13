@@ -1,36 +1,89 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+Pengu's+GitHub;Enjoy!">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+to+PenguScripts;Computer+Science+Student+@+CCSU+(Fall+2026);Game+Dev+%7C+Full+Stack+%7C+Systems+Builder" 
+      alt="Typing SVG" 
+    />
   </a>
 </p>
 
 ---
 
+## 👋 About Me
+
+🎓 Attending **Central Connecticut State University (Fall 2026)**  
+📚 Major: **Computer Science**  
+🧠 Self-taught developer with a passion for building real systems  
+🎮 Game Development • Full Stack Apps • Framework Engineering  
+
+I build projects that solve real problems, improve workflows, and scale.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+- JavaScript / TypeScript
+- Lua
+- Python
+- C++
+- HTML / CSS
+
+**Frameworks & Tools**
+- React
+- TailwindCSS
+- Node.js
+- Flutter
+- Unreal Engine 5
+- Unity
+- Git
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Penguscript&theme=dark&show_icons=true&hide_border=true&count_private=true&card_width=500" alt="Penguscript's Stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Penguscript&theme=dark&hide_border=true&card_width=500" alt="Penguscript's Streak">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Penguscript&theme=dark&show_icons=true&hide_border=true&layout=compact&card_width=500" alt="Penguscript's Top Languages">
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Penguscript&theme=dark&card_width=500" alt="Penguscript's Profile Details">
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Penguscript&theme=darkhub&no-frame=true&column=6&margin-w=15&margin-h=15" alt="Penguscript's Trophies">
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Penguscript&theme=github-dark&hide_border=true&card_width=500" alt="Penguscript's Activity Graph">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=penguscript&theme=dark&show_icons=true&hide_border=true&count_private=true" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=penguscript&theme=dark&hide_border=true" 
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=penguscript&theme=dark&hide_border=true&layout=compact" 
+    height="165"
+  />
 </p>
 
 ---
 
+## 🚀 Current Focus
+
+- 🎓 Preparing for Computer Science @ CCSU
+- 🧱 Building scalable development frameworks
+- 🎮 Expanding into Unreal Engine & game systems
+- 📺 Considering documenting my dev journey publicly
+
+---
+
+## 🌎 Connect
+
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Let's+Connect!">
-  </a>
-  <br>
   <a href="https://discord.gg/AS7U5GK4TE" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://ko-fi.com/penguscripts" target="_blank">
-    <img src="https://img.shields.io/badge/Ko-Fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-Fi">
+    <img src="https://img.shields.io/badge/Ko--Fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building systems. Shipping projects. Learning relentlessly.</i>
 </p>
