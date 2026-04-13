@@ -44,9 +44,9 @@ I build projects that solve real problems, improve workflows, and scale.
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=penguscript&theme=dark&show_icons=true&hide_border=true&count_private=true" 
-    height="165"
-  />
+  src="https://stats.dooboo.io/api/github-stats-advanced?username=penguscripts" 
+  height="165"
+/>
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=penguscript&theme=dark&hide_border=true" 
     height="165"
