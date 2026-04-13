@@ -50,15 +50,15 @@ I build projects that solve real problems, improve workflows, and scale.
 </p>
 
 <p align="center">
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=penguscript&theme=github-compact"
-/>
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=penguscript&theme=dark" 
+    height="165"
+  />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=penguscript&theme=dark" 
-    height="165"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=penguscript&theme=github-compact"
   />
 </p>
 
