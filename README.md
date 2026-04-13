@@ -54,7 +54,7 @@ I build projects that solve real problems, improve workflows, and scale.
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=penguscript&theme=github_dark" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=penguscript&theme=dark" 
     height="165"
   />
 </p>
