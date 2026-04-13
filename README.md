@@ -44,7 +44,7 @@ I build projects that solve real problems, improve workflows, and scale.
 
 <p align="center">
   <img 
-    src="https://stats.dooboo.io/api/github-stats-advanced?username=penguscripts" 
+    src="https://stats.dooboo.io/api/github-stats-advanced?username=penguscript" 
     height="165"
   />
   <img 
