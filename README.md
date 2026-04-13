@@ -51,7 +51,7 @@ I build projects that solve real problems, improve workflows, and scale.
 
 <p align="center">
 <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=penguscripts&theme=github-compact"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=penguscript&theme=github-compact"
 />
 </p>
 
